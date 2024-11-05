@@ -1,0 +1,120 @@
+        {
+            "role": "user",
+            "content": "Hola. Deseo información acerca de las tarjetas de crédito disponibles"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Hola! Soy tu asistente de préstamos de Interbank. Estoy aquí para ayudarte con información sobre préstamos personalizados. Si estás interesado en mejorar tu score crediticio, solo necesito que respondas 9 preguntas clave. Esto me permitirá ofrecerte una propuesta adecuada.\n\n¿Te gustaría comenzar? Además, si tienes tu DNI a mano, podríamos validar que cumples con los requisitos."
+        },
+        {
+            "role": "user",
+            "content": "Si"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Genial! Para empezar, por favor, me podrías proporcionar tu DNI (8 dígitos, sin letras ni caracteres especiales)?"
+        },
+        {
+            "role": "user",
+            "content": "Hola deseo información sobre tarjetas de crédito "
+        },
+        {
+            "role": "assistant",
+            "content": "Entiendo que estás interesado en tarjetas de crédito, pero para ofrecerte una propuesta personalizada de préstamo, necesito que respondas algunas preguntas clave primero. Esto te ayudará a tener una mejor opción en el futuro.\n\n¿Te gustaría continuar con las preguntas? Si prefieres información específica sobre tarjetas de crédito, también puedo ayudarte con eso. ¡Dime cómo prefieres proceder!"
+        },
+        {
+            "role": "user",
+            "content": "Continuar con las pregyntas"
+        },
+        {
+            "role": "user",
+            "content": "Continuar con las preguntas"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Perfecto! Empecemos con la primera pregunta:\n\n1. ¿Me podrías decir tu edad actual?"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Perfecto! Comencemos con la primera pregunta. \n\n1. ¿Me podrías decir tu edad actual?"
+        },
+        {
+            "role": "user",
+            "content": "26"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Gracias! Tienes 26 años. \n\nAhora vamos con la segunda pregunta:\n\n2. ¿Hasta qué nivel educativo has llegado? (Por ejemplo: técnico, universitario, maestría.)"
+        },
+        {
+            "role": "user",
+            "content": "Maestría "
+        },
+        {
+            "role": "assistant",
+            "content": "¡Excelente! Has llegado hasta el nivel de maestría. \n\nVamos con la tercera pregunta:\n\n3. ¿Cuántos títulos profesionales has obtenido hasta ahora?"
+        },
+        {
+            "role": "user",
+            "content": "Dos"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Muy bien! Tienes dos títulos profesionales. \n\nPasemos a la cuarta pregunta:\n\n4. ¿En qué año terminaste tu primera carrera o graduación?"
+        },
+        {
+            "role": "user",
+            "content": "2023"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Perfecto! Terminaste tu primera carrera en 2023. \n\nSigamos con la quinta pregunta:\n\n5. ¿Podrías contarme cuál es tu situación laboral actualmente? (¿Trabajas de manera dependiente, independiente o mixta?)"
+        },
+        {
+            "role": "user",
+            "content": "Mixta"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Gracias por compartirlo! Tienes una situación laboral mixta.\n\nAhora, vamos a la sexta pregunta:\n\n6. ¿En qué lugar resides actualmente? (Distrito y Ciudad)"
+        },
+        {
+            "role": "user",
+            "content": "Lima"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Gracias! Resides en Lima. \n\nPasemos a la séptima pregunta:\n\n7. ¿Tienes alguna propiedad inmobiliaria registrada en SUNARP? Si es así, ¿cuántas?"
+        },
+        {
+            "role": "user",
+            "content": "Lima, breña"
+        },
+        {
+            "role": "assistant",
+            "content": "Entiendo que resides en Breña, Lima. Sin embargo, la pregunta es sobre si tienes alguna propiedad inmobiliaria registrada en SUNARP. \n\n¿Tienes alguna propiedad registrada? Si es así, ¿cuántas? Si no, simplemente puedes decir \"no\"."
+        },
+        {
+            "role": "user",
+            "content": "No"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Gracias por la aclaración! No tienes propiedades registradas en SUNARP.\n\nContinuemos con la octava pregunta:\n\n8. ¿Tienes algún vehículo a tu nombre? ¿Cuántos?"
+        },
+        {
+            "role": "user",
+            "content": "No"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Gracias! No tienes vehículos a tu nombre.\n\nAhora, vamos con la última pregunta:\n\n9. ¿Me podrías decir cuál ha sido tu ingreso promedio durante los últimos tres meses?"
+        },
+        {
+            "role": "user",
+            "content": "2800"
+        },
+        {
+            "role": "assistant",
+            "content": "¡Gracias! Tu ingreso promedio durante los últimos tres meses es S/ 2,800.\n\n¡Has completado todas las preguntas! Ahora voy a recalcular tu score crediticio. \n\nCon base en tus respuestas, estoy emocionado de informarte que podrías calificar para un préstamo. \n\n**Tu oferta de préstamo es:**\n- **S/ 30,000** con una tasa del **5%**.\n\n¡Felicidades! Para proceder, necesitaría que me ayudes con algunos documentos para validar la información. Estos son:\n\n1. Reporte tributario, para validar el ingreso mensual.\n2. Constancia de propiedad en SUNARP (no aplica en tu caso).\n3. Título profesional.\n4. Recibo de servicios de agua o luz, para validar el lugar de residencia.\n\n¿Necesitas ayuda con alguno de estos documentos? Si tienes algún documento que quieras subir, puedes enviarlo a asistente_virtual@intercorp.com.pe. ¿Te gustaría proceder con eso?"
+        }
